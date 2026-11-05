@@ -209,9 +209,10 @@ As contribuições poderão envolver implementação, documentação, modelagem,
 
 | Nome | GitHub |
 |---|---|
-| A definir | A definir |
-| A definir | A definir |
-| A definir | A definir |
+| Caroline Stephanie Paulino de Campos | A definir |
+| Francisco Henrique da Silva Neto | A definir |
+| Maria Gabriela Lopes dos Santos | A definir |
+| Michele Maria de Oliveira | A definir |
 
 ---
 
