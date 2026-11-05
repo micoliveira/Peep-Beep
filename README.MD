@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-Framework-blue?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql" alt="SQL">
+    <img src="https://img.shields.io/badge/SQLite3-Database-blue?style=for-the-badge&logo=sqlite" alt="SQLite3">
 </p>
 
 ---
