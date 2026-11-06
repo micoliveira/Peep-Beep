@@ -1,19 +1,28 @@
-# 🚗 Beep Beep - IF | Carona Universitária
+# <p align="center"><strong>🚗 Beep Beep - IF | Carona Universitária</strong></p>
 
-<p align="center">
-  <strong>Conectando universitários através de caronas compartilhadas!</strong>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/logo-beep-beep.png" width="190" alt="Logo Beep Beep - IF" style="border-radius: 50%; background-color: white;" />
+    </td>
+    <td align="center">
+      <h1><strong>Beep Beep - IF</strong></h1>
+      <h3>Carona Universitária</h3>
+      <p>Conectando universitários através de caronas compartilhadas!</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-Biblioteca-blue?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/SQLite3-Database-blue?style=for-the-badge&logo=sqlite" alt="SQLite3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-Biblioteca-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/SQLite3-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3">
 </p>
 
 ---
 
-## 📑 Índice
+<h2 align="center">📑 Índice</h2>
 
 - [Descrição do Projeto](#-descrição-do-projeto)
 - [Status do Projeto](#-status-do-projeto)
@@ -29,7 +38,7 @@
 
 ---
 
-## 📖 Descrição do Projeto
+<h2 align="center">📖 Descrição do Projeto</h2>
 
 O **Beep Beep - IF** é um sistema de caronas universitárias desenvolvido com o objetivo de facilitar a mobilidade dos estudantes, conectando pessoas que precisam de transporte com motoristas que possuem vagas disponíveis em seus veículos.
 
@@ -41,29 +50,31 @@ Dessa forma, o Beep Beep busca incentivar o compartilhamento de transporte no am
 
 ---
 
-## 🚧 Status do Projeto
+<h2 align="center">🚧 Status do Projeto</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge" alt="Em desenvolvimento">
 </p>
 
-O projeto encontra-se em desenvolvimento.
+<p align="center">
+  O projeto encontra-se em desenvolvimento.
+</p>
 
 As funcionalidades apresentadas neste documento são baseadas nos requisitos e diagramas de modelagem do sistema, podendo sofrer alterações durante a implementação.
 
 ---
 
-## 🔨 Funcionalidades do Projeto
+<h2 align="center">🔨 Funcionalidades do Projeto</h2>
 
 As funcionalidades previstas para o sistema estão organizadas de acordo com os perfis de usuários.
 
-### 👤 Usuário
+<h3 align="center">👤 Usuário</h3>
 
 - Cadastro utilizando e-mail institucional.
 - Autenticação no sistema.
 - Gerenciamento de informações pessoais.
 
-### 🚶 Passageiro
+<h3 align="center">🚶 Passageiro</h3>
 
 - Buscar caronas disponíveis.
 - Filtrar viagens por origem, horário e dia.
@@ -73,7 +84,7 @@ As funcionalidades previstas para o sistema estão organizadas de acordo com os 
 - Avaliar viagens realizadas.
 - Enviar notas e comentários.
 
-### 🚗 Motorista
+<h3 align="center">🚗 Motorista</h3>
 
 - Cadastrar e gerenciar veículos.
 - Publicar viagens.
@@ -83,16 +94,16 @@ As funcionalidades previstas para o sistema estão organizadas de acordo com os 
 - Recusar solicitações de carona.
 - Atualizar a quantidade de vagas disponíveis.
 
-### ⚙️ Administrador
+<h3 align="center">⚙️ Administrador</h3>
 
 - Autenticar-se no sistema.
 - Manter e gerenciar usuários.
 
-> As funcionalidades listadas representam os requisitos identificados na modelagem e não garantem que todas já estejam implementadas.
+> **Observação:** as funcionalidades listadas representam os requisitos identificados na modelagem e não garantem que todas já estejam implementadas.
 
 ---
 
-## 🖥️ Demonstração da Aplicação
+<h2 align="center">🖥️ Demonstração da Aplicação</h2>
 
 Nesta seção serão disponibilizadas capturas de tela e demonstrações das funcionalidades do sistema.
 
@@ -108,11 +119,17 @@ As imagens serão adicionadas conforme o desenvolvimento da interface.
 
 ---
 
-## 📁 Acesso ao Projeto
+<h2 align="center">📁 Acesso ao Projeto</h2>
 
-O código-fonte do projeto está disponível no GitHub:
+<p align="center">
+  O código-fonte do projeto está disponível no GitHub.
+</p>
 
-🔗 [Repositório Beep Beep - IF](https://github.com/micoliveira/Peep-Beep)
+<p align="center">
+  <a href="https://github.com/micoliveira/Peep-Beep">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github" alt="Repositório GitHub">
+  </a>
+</p>
 
 Para clonar o repositório, utilize:
 
@@ -128,7 +145,7 @@ cd Peep-Beep
 
 ---
 
-## ⚙️ Como executar o projeto
+<h2 align="center">⚙️ Como executar o projeto</h2>
 
 As instruções específicas de instalação e execução serão adicionadas após a confirmação das configurações e dependências utilizadas na implementação.
 
@@ -148,11 +165,11 @@ As instruções específicas de instalação e execução serão adicionadas ap�
 
 ---
 
-## 📐 Modelagem do Sistema
+<h2 align="center">📐 Modelagem do Sistema</h2>
 
 A modelagem do Beep Beep foi elaborada utilizando diagramas UML, representando a estrutura, os comportamentos e as interações do sistema.
 
-### Diagrama de Classes
+<h3 align="center">Diagrama de Classes</h3>
 
 Representa as entidades e seus relacionamentos, incluindo:
 
@@ -166,40 +183,42 @@ Representa as entidades e seus relacionamentos, incluindo:
 - Rota;
 - Feedback.
 
-### Diagrama de Casos de Uso
+<h3 align="center">Diagrama de Casos de Uso</h3>
 
 Representa as interações dos atores com o sistema, incluindo aluno, passageiro, motorista e administrador.
 
-### Diagrama de Atividades
+<h3 align="center">Diagrama de Atividades</h3>
 
 Apresenta os fluxos de atividades do sistema, detalhando os processos de acesso, utilização por universitários, gerenciamento de viagens por motoristas, avaliação e administração.
 
 ---
 
-## 💻 Tecnologias Utilizadas
+<h2 align="center">💻 Tecnologias Utilizadas</h2>
 
-O desenvolvimento do Beep Beep - IF utiliza tecnologias voltadas à construção da interface e ao gerenciamento das informações do sistema.
+<p align="center">
+  Tecnologias utilizadas no desenvolvimento do Beep Beep - IF.
+</p>
 
-### JavaScript
+<h3 align="center">JavaScript</h3>
 
 Linguagem de programação utilizada no desenvolvimento das funcionalidades e regras de funcionamento da aplicação.
 
-### React
+<h3 align="center">React</h3>
 
 Biblioteca JavaScript utilizada para a construção da interface do usuário, permitindo o desenvolvimento de componentes reutilizáveis e interfaces dinâmicas.
 
-### SQLite3
+<h3 align="center">SQLite3</h3>
 
 Sistema gerenciador de banco de dados relacional utilizado para armazenar e organizar as informações da aplicação.
 
-### Ferramentas de desenvolvimento
+<h3 align="center">Ferramentas de desenvolvimento</h3>
 
 - **Git:** ferramenta de controle de versão utilizada para acompanhar as alterações no código.
 - **GitHub:** plataforma utilizada para hospedagem e gerenciamento do repositório do projeto.
 
 ---
 
-## 🤝 Pessoas Contribuidoras
+<h2 align="center">🤝 Pessoas Contribuidoras</h2>
 
 Esta seção é dedicada às pessoas que contribuíram para o desenvolvimento do projeto.
 
@@ -207,7 +226,7 @@ As contribuições poderão envolver implementação, documentação, modelagem,
 
 ---
 
-## 👩‍💻 Pessoas Desenvolvedoras
+<h2 align="center">👩‍💻 Pessoas Desenvolvedoras</h2>
 
 <p align="center">
   <strong>Conheça a equipe responsável pelo desenvolvimento do Beep Beep - IF!</strong>
@@ -242,7 +261,7 @@ As contribuições poderão envolver implementação, documentação, modelagem,
 
 ---
 
-## 📜 Licença
+<h2 align="center">📜 Licença</h2>
 
 A licença do projeto ainda não foi definida.
 
@@ -251,7 +270,7 @@ As informações sobre utilização, modificação e distribuição do software 
 ---
 
 <p align="center">
-  Desenvolvido com 💙 para a comunidade universitária.
+  Desenvolvido com 💚 para a comunidade universitária.
 </p>
 
 <p align="center">
