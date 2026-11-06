@@ -202,11 +202,11 @@ Apresenta os fluxos de atividades do sistema, detalhando os processos de acesso,
 
 Linguagem de programação utilizada no desenvolvimento das funcionalidades e regras de funcionamento da aplicação.
 
-<h3 align="center">React</h3>
+<h3>React</h3>
 
 Biblioteca JavaScript utilizada para a construção da interface do usuário, permitindo o desenvolvimento de componentes reutilizáveis e interfaces dinâmicas.
 
-<h3 align="center">SQLite3</h3>
+<h3>SQLite3</h3>
 
 Sistema gerenciador de banco de dados relacional utilizado para armazenar e organizar as informações da aplicação.
 
