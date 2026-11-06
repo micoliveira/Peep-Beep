@@ -198,7 +198,7 @@ Apresenta os fluxos de atividades do sistema, detalhando os processos de acesso,
   Tecnologias utilizadas no desenvolvimento do Beep Beep - IF.
 </p>
 
-<h3 align="center">JavaScript</h3>
+<h3>JavaScript</h3>
 
 Linguagem de programação utilizada no desenvolvimento das funcionalidades e regras de funcionamento da aplicação.
 
