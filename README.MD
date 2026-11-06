@@ -1,17 +1,16 @@
-# <p align="center"><strong>🚗 Beep Beep - IF | Carona Universitária</strong></p>
+# 🚗 Beep Beep - IF | Carona Universitária
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img src="assets/logo-beep-beep.png" width="190" alt="Logo Beep Beep - IF" style="border-radius: 50%; background-color: white;" />
-    </td>
-    <td align="center">
-      <h1><strong>Beep Beep - IF</strong></h1>
-      <h3>Carona Universitária</h3>
-      <p>Conectando universitários através de caronas compartilhadas!</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="assets/equipe/Logo%20Beep%20Beep.jpg"
+    width="260"
+    alt="Logo Beep Beep - IF"
+  />
+</p>
+
+<p align="center">
+  <strong>Conectando universitários através de caronas compartilhadas!</strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge" alt="Status">
@@ -235,25 +234,25 @@ As contribuições poderão envolver implementação, documentação, modelagem,
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/equipe/caroline.jpg" width="150" height="150" alt="Foto de Caroline" />
-      <br />
+      <img src="assets/equipe/caroline.jpg" width="150" alt="Foto de Caroline">
+      <br><br>
       <strong>Caroline Stephanie Paulino de Campos</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/equipe/francisco.jpg" width="150" height="150" alt="Foto de Francisco" />
-      <br />
+      <img src="assets/equipe/francisco.jpg" width="150" alt="Foto de Francisco">
+      <br><br>
       <strong>Francisco Henrique da Silva Neto</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/equipe/maria-gabriela.jpg" width="150" height="150" alt="Foto de Maria Gabriela" />
-      <br />
+      <img src="assets/equipe/maria-gabriela.jpg" width="150" alt="Foto de Maria Gabriela">
+      <br><br>
       <strong>Maria Gabriela Lopes dos Santos</strong>
     </td>
     <td align="center" width="50%">
-      <img src="assets/equipe/michele.jpg" width="150" height="150" alt="Foto de Michele" />
-      <br />
+      <img src="assets/equipe/michele.jpg" width="150" alt="Foto de Michele">
+      <br><br>
       <strong>Michele Maria de Oliveira</strong>
     </td>
   </tr>
