@@ -1,4 +1,4 @@
- <strong>🚗 Beep Beep - IF | Carona Universitária</strong>
+<h2 align="center">🚗 Beep Beep - IF | Carona Universitária</h2>
 
 <p align="center">
   <img
