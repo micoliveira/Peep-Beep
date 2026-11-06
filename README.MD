@@ -67,13 +67,13 @@ As funcionalidades apresentadas neste documento são baseadas nos requisitos e d
 
 As funcionalidades previstas para o sistema estão organizadas de acordo com os perfis de usuários.
 
-<h3 align="center">👤 Usuário</h3>
+<h3>👤 Usuário</h3>
 
 - Cadastro utilizando e-mail institucional.
 - Autenticação no sistema.
 - Gerenciamento de informações pessoais.
 
-<h3 align="center">🚶 Passageiro</h3>
+<h3>🚶 Passageiro</h3>
 
 - Buscar caronas disponíveis.
 - Filtrar viagens por origem, horário e dia.
@@ -83,7 +83,7 @@ As funcionalidades previstas para o sistema estão organizadas de acordo com os 
 - Avaliar viagens realizadas.
 - Enviar notas e comentários.
 
-<h3 align="center">🚗 Motorista</h3>
+<h3>🚗 Motorista</h3>
 
 - Cadastrar e gerenciar veículos.
 - Publicar viagens.
@@ -93,7 +93,7 @@ As funcionalidades previstas para o sistema estão organizadas de acordo com os 
 - Recusar solicitações de carona.
 - Atualizar a quantidade de vagas disponíveis.
 
-<h3 align="center">⚙️ Administrador</h3>
+<h3>⚙️ Administrador</h3>
 
 - Autenticar-se no sistema.
 - Manter e gerenciar usuários.
@@ -168,7 +168,7 @@ As instruções específicas de instalação e execução serão adicionadas ap�
 
 A modelagem do Beep Beep foi elaborada utilizando diagramas UML, representando a estrutura, os comportamentos e as interações do sistema.
 
-<h3 align="center">Diagrama de Classes</h3>
+<h3>Diagrama de Classes</h3>
 
 Representa as entidades e seus relacionamentos, incluindo:
 
@@ -182,11 +182,11 @@ Representa as entidades e seus relacionamentos, incluindo:
 - Rota;
 - Feedback.
 
-<h3 align="center">Diagrama de Casos de Uso</h3>
+<h3>Diagrama de Casos de Uso</h3>
 
 Representa as interações dos atores com o sistema, incluindo aluno, passageiro, motorista e administrador.
 
-<h3 align="center">Diagrama de Atividades</h3>
+<h3>Diagrama de Atividades</h3>
 
 Apresenta os fluxos de atividades do sistema, detalhando os processos de acesso, utilização por universitários, gerenciamento de viagens por motoristas, avaliação e administração.
 
@@ -222,10 +222,6 @@ Sistema gerenciador de banco de dados relacional utilizado para armazenar e orga
 Esta seção é dedicada às pessoas que contribuíram para o desenvolvimento do projeto.
 
 As contribuições poderão envolver implementação, documentação, modelagem, testes e melhorias no sistema.
-
----
-
-<h2 align="center">👩‍💻 Pessoas Desenvolvedoras</h2>
 
 <p align="center">
   <strong>Conheça a equipe responsável pelo desenvolvimento do Beep Beep - IF!</strong>
